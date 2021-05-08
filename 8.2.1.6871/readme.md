@@ -63,11 +63,7 @@ Supported Plateform:
 	  -Win10 32/64bit
 	  
 
-Virus Sacan Result:
-
-[FoxitPhantomPDF.exe](https://www.virustotal.com/gui/file/5d1e89bb02c5e412666e7f277bedfe0a062ca2207810e0543b9cb33509bc5893/detection)
-[LicenseManager.fpi](https://www.virustotal.com/gui/file/a6b1bdf0fc45f4d1af761e21ff6e7c6b98a63398b066e228bc90bd93e050b8cd/detection)
-[FXC_ProxyProcess.exe](https://www.virustotal.com/gui/file/5509c44e6168db122394003c51143f44e37c85f779783bc5d81a902b96f47e39/detection)
+VirusTotal Sacan Result: [FoxitPhantomPDF.exe](https://www.virustotal.com/gui/file/5d1e89bb02c5e412666e7f277bedfe0a062ca2207810e0543b9cb33509bc5893/detection) [LicenseManager.fpi](https://www.virustotal.com/gui/file/a6b1bdf0fc45f4d1af761e21ff6e7c6b98a63398b066e228bc90bd93e050b8cd/detection) [FXC_ProxyProcess.exe](https://www.virustotal.com/gui/file/5509c44e6168db122394003c51143f44e37c85f779783bc5d81a902b96f47e39/detection)
 		
 Please note that
 
