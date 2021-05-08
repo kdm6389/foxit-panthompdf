@@ -1,4 +1,7 @@
+This is here for education and evaluation only. buy this product to support developer.
+
 Removed component
+
 	-OCR (Google OCR is better so no point using this OCR, and Google has more language like hindi)
 	-PDF A/E/X
 	-ConnectedPDF (no point in collabrating PDF)
@@ -43,6 +46,7 @@ Removed component
 		del /f /q  ./plugins/Worldox*
 
 Left component:
+
 	Viwer/Editor (mandatory component) 
 	Spell
 	PDF Creator (combine, convert) to ShellExtention
@@ -51,7 +55,10 @@ Left component:
 No need to activate / Already activated for life time. 
 
 
+
 Supported Plateform:
+
   WinXP 32bit
   Win7 32/64bit
   Win10 32/64bit
+  
