@@ -69,3 +69,8 @@ Virus Sacan Result:
 		LicenseManager.fpi |chttps://www.virustotal.com/gui/file/a6b1bdf0fc45f4d1af761e21ff6e7c6b98a63398b066e228bc90bd93e050b8cd/detection
 		FXC_ProxyProcess.exe | https://www.virustotal.com/gui/file/5509c44e6168db122394003c51143f44e37c85f779783bc5d81a902b96f47e39/detection
 		
+Please note that
+
+		eGambit: PE.Heur.InvalidSig
+		Gridinsoft: Trojan.Heur!.00042031
+		
