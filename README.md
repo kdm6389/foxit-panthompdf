@@ -2,7 +2,6 @@
 foxit panthompdf prepatched msi installer moded with ai17.1.1
 
 Removed component
-
 	-OCR (Google OCR is better so no point using this OCR, and Google has more language like hindi)
 	-PDF A/E/X
 	-ConnectedPDF (no point in collabrating PDF)
