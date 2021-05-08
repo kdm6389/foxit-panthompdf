@@ -58,7 +58,7 @@ No need to activate / Already activated for life time.
 
 Supported Plateform:
 
-  WinXP 32bit
-  Win7 32/64bit
-  Win10 32/64bit
+	  -WinXP 32bit
+	  -Win7 32/64bit
+	  -Win10 32/64bit
   
