@@ -1,3 +1,7 @@
+FoxIt PanthomPDF 8.2.1.6871
+-------------------------------
+
+
 This is here for education and evaluation only. buy this product to support developer.
 
 Removed component
